@@ -1,5 +1,5 @@
-# Material UI TextField and Select for Formik
+# Advanced Yup Validations for Formik
 
-This gives you access to FormikField and FormikSelect component that makes it extremely easy to hook up fields with Material UI design to formik!
+Yup is a powerful validation tool for Formik! Watch my video for an introduction on it's advanced features
 
 <img src="screenshot.png" alt="form" style="margin-left: 15px;" />
